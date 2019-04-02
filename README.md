@@ -1,4 +1,6 @@
-华为2019软件精英挑战赛--初赛万古长青名
+华为2019软件精英挑战赛--初赛
+初赛排名47 
+
 赛题介绍
 https://codecraft.huawei.com/Generaldetail
 队伍名称：万古长青
